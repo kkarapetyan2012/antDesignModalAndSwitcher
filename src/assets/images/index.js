@@ -1,0 +1,1 @@
+export { default as deleted } from './delete.png';
